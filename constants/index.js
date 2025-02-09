@@ -382,7 +382,7 @@ const projects = [
   //   deployed_link: "https://gdscmvjce.vercel.app/",
   // },
   {
-    name: "Research Ppaer on Emotional Intelligence In-AI Chatbot ",
+    name: "Research Paper on Emotional Intelligence In-AI Chatbot ",
     description:
       "This research explores integrating emotional intelligence in AI chatbots, enabling them to detect, interpret, and respond to human emotions dynamically. It addresses challenges like bias, multilingual adaptation, data privacy, and ethics. Real-world applications in healthcare, education, and customer service are analyzed. ",
     tags: [
